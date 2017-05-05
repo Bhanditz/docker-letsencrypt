@@ -1,4 +1,4 @@
-# 
+# Automated SAN SSL registeration & renewal
 - mount /etc/letsencrypt inside the container
 - point webservers SSL to sym-linked live certs in the mounted folder
 
