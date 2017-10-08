@@ -1,4 +1,4 @@
-FROM m3hran/base.nginx
+FROM m3hran/nginx
 MAINTAINER Martin Taheri <m3hran@gmail.com>
 LABEL Description="LetsEncrypt Image"
 
